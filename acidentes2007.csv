@@ -1,0 +1,101 @@
+,id,data_inversa,dia_semana,horario,uf,br,km,municipio,causa_acidente,tipo_acidente,classificacao_acidente,fase_dia,sentido_via,condicao_metereologica,tipo_pista,tracado_via,uso_solo,ano,pessoas,mortos,feridos_leves,feridos_graves,ilesos,ignorados,feridos,veiculos
+571,174632,01/01/2007,Segunda,16:00:00,MG,40,729.1,OLIVEIRA FORTES,Outras,Saída de Pista,Sem Vítimas,Pleno dia,Crescente,Chuva,Dupla,Reta,Rural,2007,1,0,0,0,1,0,0,1
+162,173988,01/01/2007,Segunda,11:15:00,MG,50,166.9,UBERABA,Falta de atenção,Saída de Pista,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Dupla,Cruzamento,Rural,2007,5,0,0,0,5,0,0,1
+169,173995,01/01/2007,Segunda,16:10:00,MG,381,514.0,BRUMADINHO,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Chuva,Dupla,Reta,Rural,2007,2,0,0,0,2,0,0,2
+183,174012,01/01/2007,Segunda,12:45:00,MG,381,347.3,JOAO MONLEVADE,Defeito mecânico em veículo,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Nublado,Simples,Curva,Urbano,2007,1,0,0,0,1,0,0,1
+1188,175545,01/01/2007,Segunda,08:40:00,MG,381,397.4,NOVA UNIAO,Outras,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Nublado,Simples,Curva,Rural,2007,1,0,0,0,1,0,0,1
+210,174050,01/01/2007,Segunda,15:50:00,MG,381,467.5,CONTAGEM,Falta de atenção,Atropelamento de pessoa,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2007,2,0,1,0,1,0,1,1
+228,174075,01/01/2007,Segunda,18:00:00,MG,262,364.8,JUATUBA,Outras,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Rural,2007,4,0,1,0,3,0,1,3
+1978,176578,01/01/2007,Segunda,14:00:00,MG,381,404.0,NOVA UNIAO,Outras,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Chuva,Simples,Curva,Rural,2007,1,0,0,0,1,0,0,1
+293,174230,01/01/2007,Segunda,16:56:00,MG,40,746.5,SANTOS DUMONT,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Chuva,Simples,Reta,Rural,2007,2,0,0,0,2,0,0,2
+37649,220901,01/01/2007,Segunda,21:25:00,MG,381,482.3,BETIM,Outras,Atropelamento de pessoa,Com Vítimas Fatais,Plena noite,Decrescente,Nublado,Dupla,Reta,Urbano,2007,3,1,0,0,1,1,0,2
+1399,175870,01/01/2007,Segunda,20:30:00,MG,381,501.9,IGARAPE,Falta de atenção,Colisão lateral,Sem Vítimas,Plena noite,Crescente,Nublado,Dupla,Reta,Urbano,2007,2,0,0,0,2,0,0,2
+301,174248,01/01/2007,Segunda,19:40:00,MG,40,127.1,JOAO PINHEIRO,Falta de atenção,Colisão traseira,Sem Vítimas,Anoitecer,Decrescente,Nublado,Simples,Reta,Rural,2007,4,0,0,0,4,0,0,2
+2363,177084,01/01/2007,Segunda,14:35:00,MG,381,404.0,NOVA UNIAO,Outras,Capotamento,Sem Vítimas,Pleno dia,Crescente,Chuva,Simples,Curva,Rural,2007,1,0,0,0,1,0,0,1
+1363,175827,01/01/2007,Segunda,17:30:00,MG,381,485.0,BETIM,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Dupla,Cruzamento,Urbano,2007,2,0,0,0,2,0,0,2
+768,174978,01/01/2007,Segunda,03:20:00,MG,50,71.0,UBERLANDIA,Outras,Colisão Transversal,Sem Vítimas,Plena noite,Crescente,Chuva,Simples,Reta,Urbano,2007,2,0,0,0,1,1,0,2
+523,174570,01/01/2007,Segunda,14:55:00,MG,354,744.2,ITAMONTE,Outras,Colisão lateral,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Curva,Urbano,2007,1,0,1,0,0,0,1,1
+1267,175686,01/01/2007,Segunda,23:00:00,MG,262,442.1,NOVA SERRANA,Ingestão de álcool,Colisão lateral,Com Vítimas Feridas,Plena noite,Crescente,Nevoeiro/neblina,Simples,Curva,Rural,2007,6,0,4,0,2,0,4,3
+1258,175677,01/01/2007,Segunda,21:15:00,MG,262,575.0,JUATUBA,Animais na Pista,Atropelamento de animal,Sem Vítimas,Plena noite,Crescente,Nublado,Simples,Reta,Rural,2007,1,0,0,0,1,0,0,1
+1187,175544,01/01/2007,Segunda,12:00:00,MG,50,0.2,ARAGUARI,Outras,Saída de Pista,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Curva,Rural,2007,4,0,3,1,0,0,4,1
+1221,175603,01/01/2007,Segunda,13:00:00,MG,381,508.0,IGARAPE,Outras,Capotamento,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Dupla,Curva,Rural,2007,2,0,1,0,1,0,1,1
+126038,323926,31/12/2007,Segunda,19:20:00,SP,459,19.0,LORENA,Outras,Queda de motocicleta / bicicleta / veículo,Com Vítimas Feridas,Anoitecer,Crescente,Ceu Claro,Simples,Reta,Rural,2007,2,0,2,0,0,0,2,1
+125792,323623,31/12/2007,Segunda,07:25:00,SP,116,190.5,SANTA ISABEL,Outras,Colisão com objeto fixo,Sem Vítimas,Amanhecer,Crescente,Sol,Dupla,Curva,Rural,2007,2,0,0,0,1,1,0,2
+126297,324761,31/12/2007,Segunda,07:50:00,SP,101,50.6,UBATUBA,Outras,Colisão lateral,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Urbano,2007,4,0,1,0,3,0,1,4
+125993,323856,31/12/2007,Segunda,19:00:00,SP,116,227.8,SAO PAULO,Falta de atenção,Colisão com objeto fixo,Sem Vítimas,Pleno dia,Decrescente,Sol,Múltipla,Reta,Urbano,2007,1,0,0,0,1,0,0,1
+126421,325459,31/12/2007,Segunda,15:00:00,SP,381,70.0,MAIRIPORA,Defeito mecânico em veículo,Colisão com objeto fixo,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Curva,Urbano,2007,3,0,3,0,0,0,3,1
+126192,324364,31/12/2007,Segunda,16:50:00,SP,116,40.8,CACHOEIRA PAULISTA,Outras,Queda de motocicleta / bicicleta / veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Rural,2007,1,0,1,0,0,0,1,1
+126166,324288,31/12/2007,Segunda,13:30:00,SP,381,22.5,BRAGANCA PAULISTA,Outras,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Ceu Claro,Dupla,Reta,Rural,2007,9,0,1,0,8,0,1,8
+126318,324837,31/12/2007,Segunda,03:50:00,SP,116,82.2,ROSEIRA,Outras,Colisão com objeto fixo,Sem Vítimas,Plena noite,Crescente,Ceu Claro,Dupla,Reta,Rural,2007,1,0,0,0,1,0,0,1
+125843,323675,31/12/2007,Segunda,14:00:00,SP,116,66.5,GUARATINGUETA,Outras,Colisão lateral,Sem Vítimas,Pleno dia,Decrescente,Sol,Dupla,Curva,Rural,2007,2,0,0,0,2,0,0,2
+126085,324065,31/12/2007,Segunda,16:30:00,SP,116,316.5,JUQUITIBA,Outras,Saída de Pista,Ignorado,Pleno dia,Decrescente,Sol,Dupla,Curva,Rural,2007,1,0,0,0,0,1,0,1
+125982,323829,31/12/2007,Segunda,01:00:00,SP,116,215.0,GUARULHOS,Outras,Atropelamento de animal,Sem Vítimas,Plena noite,Crescente,Ceu Claro,Múltipla,Reta,Rural,2007,1,0,0,0,1,0,0,1
+125980,323825,31/12/2007,Segunda,21:30:00,SP,116,427.5,JUQUIA,Defeito na via,Saída de Pista,Sem Vítimas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Rural,2007,1,0,0,0,1,0,0,1
+125952,323786,31/12/2007,Segunda,15:50:00,SP,381,34.0,ATIBAIA,Outras,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Curva,Rural,2007,1,0,1,0,0,0,1,1
+125855,323687,31/12/2007,Segunda,13:00:00,SP,116,408.0,JUQUIA,Defeito na via,Capotamento,Sem Vítimas,Pleno dia,Decrescente,Sol,Simples,Reta,Rural,2007,1,0,0,0,1,0,0,1
+102387,297286,31/10/2007,Quarta,01:50:00,SP,116,157.5,SAO JOSE DOS CAMPOS,Outras,Colisão traseira,Sem Vítimas,Amanhecer,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2007,3,0,0,0,3,0,0,3
+102318,297212,31/10/2007,Quarta,04:00:00,SP,116,446.0,REGISTRO,Animais na Pista,Saída de Pista,Sem Vítimas,Plena noite,Decrescente,Nublado,Dupla,Reta,Urbano,2007,1,0,0,0,1,0,0,1
+102256,297147,31/10/2007,Quarta,03:30:00,SP,116,2.0,QUELUZ,Falta de atenção,Colisão traseira,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Dupla,Reta,Rural,2007,2,0,0,1,1,0,1,2
+102155,297042,31/10/2007,Quarta,07:45:00,SP,116,214.0,GUARULHOS,Falta de atenção,Colisão traseira,Sem Vítimas,Amanhecer,Decrescente,Ceu Claro,Múltipla,Reta,Urbano,2007,1,0,0,0,1,0,0,1
+102020,296903,31/10/2007,Quarta,10:10:00,SP,381,60.8,MAIRIPORA,Falta de atenção,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Dupla,Curva,Rural,2007,2,0,0,0,2,0,0,2
+101920,296792,31/10/2007,Quarta,16:40:00,SP,116,140.8,SAO JOSE DOS CAMPOS,Outras,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Chuva,Dupla,Reta,Rural,2007,4,0,0,0,4,0,0,4
+127381,420835,23/07/2007,Segunda,13:30:00,SC,101,410.1,ARARANGUA,Defeito mecânico em veículo,Colisão frontal,Com Vítimas Fatais,Pleno dia,Decrescente,Ceu Claro,Simples,Curva,Rural,2007,7,1,3,2,1,0,5,3
+127402,435573,03/02/2007,Sábado,21:45:00,SC,101,157.6,PORTO BELO,Falta de atenção,Colisão traseira,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Dupla,Reta,Rural,2007,3,0,1,1,1,0,2,2
+127410,437175,11/03/2007,Domingo,15:21:00,SC,470,126.5,LONTRAS,Ingestão de álcool,Colisão Transversal,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Urbano,2007,6,0,5,0,1,0,5,2
+127416,438925,09/04/2007,Segunda,02:50:00,SC,101,210.7,SAO JOSE,Outras,Colisão com objeto fixo,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Dupla,Reta,Urbano,2007,2,0,1,1,0,0,2,1
+127417,438995,16/08/2007,Quinta,23:45:00,SC,101,220.2,PALHOCA,Falta de atenção,Colisão com bicicleta,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Simples,Reta,Urbano,2007,6,0,2,2,1,1,4,5
+127433,448971,24/12/2007,Segunda,19:00:00,SC,280,5.7,SAO FRANCISCO DO SUL,Falta de atenção,Colisão com bicicleta,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Cruzamento,Urbano,2007,2,0,0,1,1,0,1,2
+127439,451974,12/03/2007,Segunda,04:00:00,SC,101,176.9,BIGUACU,Outras,Colisão com objeto fixo,Com Vítimas Fatais,Plena noite,Crescente,Ceu Claro,Dupla,Reta,Rural,2007,14,1,10,2,1,0,12,2
+127499,489055,22/12/2007,Sábado,00:05:00,SC,101,216.0,PALHOCA,Falta de atenção,Atropelamento de pessoa,Com Vítimas Fatais,Plena noite,Crescente,Ceu Claro,Dupla,Reta,Urbano,2007,2,1,0,0,1,0,0,1
+127501,489579,05/05/2007,Sábado,03:50:00,SC,101,283.0,IMBITUBA,Falta de atenção,Tombamento,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Simples,Reta,Rural,2007,1,0,1,0,0,0,1,1
+127530,506958,25/08/2007,Sábado,16:50:00,SC,280,201.8,TRES BARRAS,Falta de atenção,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Rural,2007,2,0,0,1,1,0,1,2
+127532,509571,01/06/2007,Sexta,18:10:00,SC,101,0.0,BIGUACU,Outras,Atropelamento de pessoa,Com Vítimas Feridas,Plena noite,Decrescente,Chuva,Dupla,Curva,Urbano,2007,2,0,0,1,1,0,1,1
+127538,515111,15/12/2007,Sábado,15:45:00,SC,282,206.9,LAGES,Ultrapassagem indevida,Colisão Transversal,Com Vítimas Fatais,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Urbano,2007,7,3,1,2,0,1,3,3
+127551,524577,05/12/2007,Quarta,01:30:00,SC,282,630.9,DESCANSO,Outras,Colisão com objeto fixo,Com Vítimas Feridas,Plena noite,Decrescente,Chuva,Simples,Curva,Rural,2007,24,0,12,12,0,0,24,1
+127575,562983,26/12/2007,Quarta,07:15:00,SC,470,160.0,TROMBUDO CENTRAL,Falta de atenção,Colisão Transversal,Com Vítimas Feridas,Amanhecer,Decrescente,Ceu Claro,Simples,Cruzamento,Urbano,2007,9,0,5,1,3,0,6,3
+127589,577010,23/06/2007,Sábado,20:40:00,SC,280,60.4,JARAGUA DO SUL,Falta de atenção,Colisão com objeto fixo,Com Vítimas Feridas,Plena noite,Crescente,Nublado,Dupla,Cruzamento,Urbano,2007,1,0,0,1,0,0,1,1
+127597,598210,06/05/2007,Domingo,09:40:00,SC,101,9.0,GARUVA,Falta de atenção,Colisão com objeto fixo,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Reta,Rural,2007,6,0,4,0,2,0,4,3
+127603,619172,14/01/2007,Domingo,22:40:00,SC,116,6.0,MAFRA,Ingestão de álcool,Colisão lateral,Com Vítimas Feridas,Plena noite,Decrescente,Vento,Simples,Reta,Urbano,2007,3,0,0,2,1,0,2,2
+127620,654856,07/11/2007,Quarta,10:55:00,SC,101,44.9,JOINVILLE,Defeito na via,Colisão com objeto fixo,Sem Vítimas,Pleno dia,Decrescente,Chuva,Dupla,Curva,Urbano,2007,4,0,0,0,4,0,0,4
+127635,700390,02/09/2007,Domingo,18:00:00,SC,282,408.3,CATANDUVAS,Outras,Colisão frontal,Com Vítimas Fatais,Plena noite,Decrescente,Ceu Claro,Simples,Curva,Rural,2007,3,1,0,1,1,0,1,2
+127673,987413,09/05/2007,Quarta,14:50:00,SC,470,65.8,INDAIAL,Falta de atenção,Colisão Transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Urbano,2007,3,0,3,0,0,0,3,2
+58812,246980,26/06/2007,Terça,16:40:00,CE,20,13.3,MARACANAU,Falta de atenção,Colisão traseira,Sem Vítimas,Anoitecer,Crescente,Ceu Claro,Simples,Curva,Urbano,2007,2,0,0,0,1,1,0,2
+58971,247151,29/06/2007,Sexta,15:50:00,CE,20,15.3,MARACANAU,Outras,Colisão lateral,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Urbano,2007,2,0,0,0,2,0,0,2
+59026,247211,30/06/2007,Sábado,06:20:00,CE,116,3.3,FORTALEZA,Falta de atenção,Colisão com bicicleta,Com Vítimas Feridas,Pleno dia,Crescente,Ceu Claro,Múltipla,Reta,Urbano,2007,2,0,1,0,1,0,1,2
+59070,247261,30/06/2007,Sábado,09:30:00,CE,222,4.9,CAUCAIA,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Múltipla,Reta,Urbano,2007,2,0,0,0,2,0,0,2
+59155,247352,30/06/2007,Sábado,07:15:00,CE,116,7,FORTALEZA,Desobediência à sinalização,Colisão Transversal,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Dupla,Reta,Urbano,2007,2,0,0,0,2,0,0,2
+59268,247480,22/05/2007,Terça,07:59:00,CE,116,1.1,FORTALEZA,Falta de atenção,Colisão lateral,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Múltipla,Reta,Urbano,2007,2,0,0,0,1,1,0,2
+59285,247499,30/06/2007,Sábado,19:50:00,CE,222,3,FORTALEZA,Outras,Capotamento,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Múltipla,Reta,Urbano,2007,1,0,0,1,0,0,1,1
+59320,247536,27/06/2007,Quarta,22:30:00,CE,222,12,CAUCAIA,Falta de atenção,Colisão com objeto fixo,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Urbano,2007,2,0,0,1,0,1,1,2
+59373,247596,27/06/2007,Quarta,21:30:00,CE,116,12.5,FORTALEZA,Outras,Tombamento,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Múltipla,Reta,Urbano,2007,1,0,0,1,0,0,1,1
+59382,247606,29/06/2007,Sexta,15:20:00,CE,116,486.8,MILAGRES,Falta de atenção,Colisão com objeto fixo,Com Vítimas Fatais,Pleno dia,Crescente,Sol,Simples,Curva,Urbano,2007,2,1,0,1,0,0,1,1
+59404,247630,01/07/2007,Domingo,14:00:00,CE,222,7.9,CAUCAIA,Outras,Queda de motocicleta / bicicleta / veículo,Com Vítimas Feridas,Pleno dia,Crescente,Ceu Claro,Simples,Reta,Urbano,2007,2,0,1,1,0,0,2,1
+59527,247765,01/07/2007,Domingo,14:45:00,CE,222,225,SOBRAL,Falta de atenção,Queda de motocicleta / bicicleta / veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Curva,Urbano,2007,2,0,1,1,0,0,2,1
+59585,247826,29/06/2007,Sexta,23:00:00,CE,222,10.2,CAUCAIA,Falta de atenção,Colisão traseira,Com Vítimas Feridas,Plena noite,Decrescente,Ignorada,Simples,Reta,Urbano,2007,3,0,1,0,2,0,1,2
+59611,247856,30/06/2007,Sábado,05:35:00,CE,222,218.8,SOBRAL,Outras,Colisão com objeto fixo,Com Vítimas Feridas,Amanhecer,Decrescente,Nublado,Simples,Reta,Urbano,2007,1,0,1,0,0,0,1,1
+59655,247922,26/02/2007,Segunda,16:55:00,CE,116,71.3,CHOROZINHO,Falta de atenção,Colisão com bicicleta,Com Vítimas Fatais,Pleno dia,Crescente,Ceu Claro,Simples,Reta,Urbano,2007,2,1,0,0,1,0,0,2
+59668,247937,02/07/2007,Segunda,10:30:00,CE,116,7,FORTALEZA,Outras,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Simples,Curva,Urbano,2007,2,0,0,0,2,0,0,2
+59771,248064,01/07/2007,Domingo,14:20:00,CE,222,91.2,UMIRIM,Falta de atenção,Colisão Transversal,Sem Vítimas,Pleno dia,Crescente,Sol,Simples,Reta,Urbano,2007,2,0,0,0,2,0,0,2
+59778,248071,30/06/2007,Sábado,03:25:00,CE,116,104.9,MORADA NOVA,Dormindo,Colisão lateral,Com Vítimas Fatais,Amanhecer,Crescente,Nevoeiro/neblina,Dupla,Reta,Rural,2007,4,2,0,0,0,2,0,2
+59820,248115,02/07/2007,Segunda,16:05:00,CE,222,306.1,TIANGUA,Defeito mecânico em veículo,Colisão com objeto fixo,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Curva,Rural,2007,1,0,1,0,0,0,1,1
+59868,248165,02/07/2007,Segunda,22:00:00,CE,222,5.8,CAUCAIA,Outras,Colisão lateral,Sem Vítimas,Plena noite,Decrescente,Ceu Claro,Múltipla,Cruzamento,Urbano,2007,2,0,0,0,2,0,0,2
+127533,511148,11/10/2007,Quinta,15:45:00,GO,60,261.0,INDIARA,Outras,Saída de Pista,Com Vítimas Fatais,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Rural,2007,9,1,2,3,3,0,5,2
+127541,519340,13/09/2007,Quinta,10:05:00,GO,40,7.8,CRISTALINA,Desobediência à sinalização,Saída de Pista,Com Vítimas Feridas,Pleno dia,Crescente,Ceu Claro,Dupla,Reta,Rural,2007,1,0,1,0,0,0,1,1
+127543,519745,20/08/2007,Segunda,12:40:00,GO,40,3.0,VALPARAISO DE GOIAS,Falta de atenção,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Dupla,Reta,Urbano,2007,2,0,0,0,2,0,0,2
+127547,522980,14/10/2007,Domingo,17:50:00,GO,70,11.3,AGUAS LINDAS DE GOIAS,Falta de atenção,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Urbano,2007,5,0,4,1,0,0,5,2
+127548,523770,18/09/2007,Terça,17:45:00,GO,40,12.0,LUZIANIA,Falta de atenção,Capotamento,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Urbano,2007,2,0,1,1,0,0,2,1
+127558,539446,10/03/2007,Sábado,01:20:00,GO,153,516.0,APARECIDA DE GOIANIA,Outras,Colisão Transversal,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2007,2,0,0,1,1,0,1,2
+127565,548364,29/06/2007,Sexta,18:00:00,GO,50,164.0,CAMPO ALEGRE DE GOIAS,Ultrapassagem indevida,Colisão frontal,Com Vítimas Feridas,Anoitecer,Crescente,Ceu Claro,Simples,Reta,Rural,2007,5,0,2,3,0,0,5,2
+127567,556709,01/02/2007,Quinta,02:00:00,GO,20,189.0,ALVORADA DO NORTE,Defeito mecânico em veículo,Colisão com objeto fixo,Com Vítimas Feridas,Plena noite,Decrescente,Nublado,Dupla,Reta,Rural,2007,1,0,1,0,0,0,1,1
+127573,562799,26/02/2007,Segunda,12:55:00,GO,70,9.0,AGUAS LINDAS DE GOIAS,Falta de atenção,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Urbano,2007,18,0,13,3,2,0,16,2
+127574,562818,16/01/2007,Terça,12:22:00,GO,20,117.0,FLORES DE GOIAS,Velocidade incompatível,Saída de Pista,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Simples,Reta,Rural,2007,6,0,2,4,0,0,6,1
+127593,590135,06/06/2007,Quarta,16:40:00,GO,40,9.0,LUZIANIA,Outras,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2007,3,0,0,0,1,2,0,2
+127600,605807,31/03/2007,Sábado,19:57:00,GO,40,25.0,VALPARAISO DE GOIAS,Ingestão de álcool,Colisão lateral,Sem Vítimas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Rural,2007,2,0,0,0,2,0,0,2
+127605,629375,11/02/2007,Domingo,19:00:00,GO,60,276.0,INDIARA,Outras,Saída de Pista,Com Vítimas Feridas,Anoitecer,Decrescente,Ceu Claro,Simples,Reta,Rural,2007,3,0,3,0,0,0,3,1
+127609,641832,08/07/2007,Domingo,15:50:00,GO,60,165.3,GOIANIA,Outras,Colisão frontal,Com Vítimas Fatais,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Urbano,2007,3,1,0,0,1,1,0,2
+127612,645005,15/10/2007,Segunda,00:30:00,GO,20,10.0,FORMOSA,Ingestão de álcool,Atropelamento de pessoa,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Simples,Reta,Rural,2007,2,0,0,1,0,1,1,1
+127623,665411,06/09/2007,Quinta,21:05:00,GO,20,219.8,POSSE,Ultrapassagem indevida,Colisão frontal,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Simples,Reta,Rural,2007,3,0,1,0,2,0,1,2
+127626,671249,03/10/2007,Quarta,08:10:00,GO,70,14.0,AGUAS LINDAS DE GOIAS,Falta de atenção,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Ignorada,Simples,Reta,Rural,2007,3,0,0,1,2,0,1,2
+127628,673694,29/05/2007,Terça,08:30:00,GO,40,137.1,CRISTALINA,Outras,Saída de Pista,Com Vítimas Feridas,Pleno dia,Crescente,Ceu Claro,Simples,Curva,Rural,2007,1,0,0,1,0,0,1,1
+127651,766755,13/09/2007,Quinta,15:00:00,GO,40,9.0,LUZIANIA,Outras,Atropelamento de pessoa,Com Vítimas Fatais,Pleno dia,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2007,2,1,0,0,1,0,0,1
+127660,83230225,09/08/2007,Quinta,06:30:00,GO,153,511.3,APARECIDA DE GOIANIA,Falta de atenção,Colisão traseira,Sem Vítimas,Amanhecer,Crescente,Ceu Claro,Dupla,Reta,Urbano,2007,2,0,0,0,2,0,0,2

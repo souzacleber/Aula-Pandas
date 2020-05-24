@@ -1,0 +1,101 @@
+,id,data_inversa,dia_semana,horario,uf,br,km,municipio,causa_acidente,tipo_acidente,classificacao_acidente,fase_dia,sentido_via,condicao_metereologica,tipo_pista,tracado_via,uso_solo,ano,pessoas,mortos,feridos_leves,feridos_graves,ilesos,ignorados,feridos,veiculos
+354,324437,01/01/2008,Terça,18:40:00,MG,381,434,SABARA,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Sol,Simples,Reta,Urbano,2008,4,0,0,0,4,0,0,4
+249,324235,01/01/2008,Terça,05:30:00,MG,40,689.3,ALFREDO VASCONCELOS,Falta de atenção,Saída de Pista,Com Vítimas Feridas,Amanhecer,Crescente,Ceu Claro,Simples,Reta,Rural,2008,2,0,2,0,0,0,2,1
+529,324689,01/01/2008,Terça,22:50:00,MG,381,478.8,BETIM,Outras,Atropelamento de pessoa,Com Vítimas Fatais,Plena noite,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2008,2,1,0,0,1,0,0,1
+1087,325510,01/01/2008,Terça,20:40:00,MG,354,744.8,ITAMONTE,Falta de atenção,Atropelamento de pessoa,Sem Vítimas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Urbano,2008,2,0,0,0,2,0,0,1
+983,325382,01/01/2008,Terça,16:40:00,MG,40,661,CARANDAI,Velocidade incompatível,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Rural,2008,1,0,0,0,1,0,0,1
+976,325371,01/01/2008,Terça,11:00:00,MG,381,436,SABARA,Não guardar distância de segurança,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Simples,Curva,Rural,2008,2,0,0,0,2,0,0,2
+2154,326798,01/01/2008,Terça,02:30:00,MG,40,532.1,BELO HORIZONTE,Outras,Atropelamento de pessoa,Com Vítimas Feridas,Plena noite,Crescente,Nublado,Dupla,Reta,Urbano,2008,3,0,1,2,0,0,3,1
+296,324349,01/01/2008,Terça,16:30:00,MG,381,424,SABARA,Outras,Colisão com objeto móvel,Sem Vítimas,Pleno dia,Crescente,Sol,Simples,Reta,Rural,2008,2,0,0,0,2,0,0,2
+329,324398,01/01/2008,Terça,05:30:00,MG,116,520.4,CARATINGA,Falta de atenção,Saída de Pista,Sem Vítimas,Amanhecer,Decrescente,Ceu Claro,Dupla,Curva,Rural,2008,1,0,0,0,1,0,0,1
+937,325327,01/01/2008,Terça,07:05:00,MG,267,292.7,BAEPENDI,Dormindo,Saída de Pista,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Simples,Reta,Rural,2008,1,0,0,0,1,0,0,1
+629,324884,01/01/2008,Terça,21:30:00,MG,452,224.2,SANTA JULIANA,Falta de atenção,Colisão lateral,Com Vítimas Fatais,Plena noite,Crescente,Ceu Claro,Simples,Curva,Rural,2008,3,1,0,0,2,0,0,2
+885,325254,01/01/2008,Terça,02:00:00,MG,116,243.8,TEOFILO OTONI,Outras,Saída de Pista,Com Vítimas Fatais,Plena noite,Crescente,Ceu Claro,Simples,Curva,Rural,2008,1,1,0,0,0,0,0,1
+1763,326306,01/01/2008,Terça,16:05:00,MG,381,353,SAO GONCALO DO RIO ABAIXO,Outras,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Sol,Simples,Reta,Rural,2008,3,0,0,0,3,0,0,3
+392,324494,01/01/2008,Terça,06:30:00,MG,116,526.8,CARATINGA,Desobediência à sinalização,Colisão com objeto móvel,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2008,1,0,1,0,0,0,1,1
+14667,340602,01/01/2008,Terça,16:30:00,MG,153,42,CANAPOLIS,Outras,Saída de Pista,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Reta,Rural,2008,4,0,3,0,1,0,3,1
+406,324517,01/01/2008,Terça,21:40:00,MG,381,480.5,BETIM,Outras,Saída de Pista,Sem Vítimas,Plena noite,Decrescente,Ceu Claro,Dupla,Curva,Urbano,2008,1,0,0,0,1,0,0,1
+845,325188,01/01/2008,Terça,08:40:00,MG,135,503.5,JOAQUIM FELICIO,Outras,Saída de Pista,Sem Vítimas,Pleno dia,Crescente,Sol,Simples,Reta,Rural,2008,1,0,0,0,1,0,0,1
+434,324568,01/01/2008,Terça,02:00:00,MG,116,277.9,TEOFILO OTONI,Falta de atenção,Colisão Transversal,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Urbano,2008,3,0,1,0,2,0,1,2
+812,325130,01/01/2008,Terça,06:00:00,MG,381,913,ITAPEVA,Dormindo,Tombamento,Sem Vítimas,Amanhecer,Decrescente,Ceu Claro,Dupla,Curva,Rural,2008,1,0,0,0,1,0,0,1
+801,325106,01/01/2008,Terça,01:40:00,MG,365,631,UBERLANDIA,Não guardar distância de segurança,Colisão traseira,Sem Vítimas,Plena noite,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2008,2,0,0,0,2,0,0,2
+139037,471238,31/12/2008,Quarta,00:30:00,SP,116,545.0,BARRA DO TURVO,Outras,Capotamento,Com Vítimas Feridas,Plena noite,Decrescente,Chuva,Dupla,Curva,Rural,2008,2,0,1,0,1,0,1,1
+139212,471420,31/12/2008,Quarta,07:50:00,SP,381,7.0,VARGEM,Outras,Colisão com objeto móvel,Sem Vítimas,Pleno dia,Crescente,Sol,Dupla,Reta,Rural,2008,2,0,0,0,2,0,0,1
+139719,472451,31/12/2008,Quarta,05:15:00,SP,116,133.0,CACAPAVA,Defeito mecânico em veículo,Colisão com objeto fixo,Sem Vítimas,Amanhecer,Decrescente,Ceu Claro,Dupla,Reta,Rural,2008,1,0,0,0,1,0,0,1
+139205,471412,31/12/2008,Quarta,15:40:00,SP,381,3.0,VARGEM,Outras,Saída de Pista,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Curva,Rural,2008,3,0,1,0,2,0,1,1
+139763,472563,31/12/2008,Quarta,21:00:00,SP,116,5.0,GUARULHOS,Outras,Colisão traseira,Sem Vítimas,Plena noite,Crescente,Nublado,Dupla,Reta,Urbano,2008,3,0,0,0,3,0,0,3
+139768,472583,31/12/2008,Quarta,01:40:00,SP,101,37.0,UBATUBA,Outras,Colisão frontal,Sem Vítimas,Plena noite,Decrescente,Ceu Claro,Simples,Reta,Urbano,2008,2,0,0,0,2,0,0,2
+139774,472598,31/12/2008,Quarta,02:00:00,SP,101,48.8,UBATUBA,Outras,Colisão frontal,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Urbano,2008,3,0,2,0,1,0,2,2
+139795,472679,31/12/2008,Quarta,14:00:00,SP,116,222.0,GUARULHOS,Falta de atenção,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Múltipla,Reta,Urbano,2008,2,0,0,0,2,0,0,2
+139798,472696,31/12/2008,Quarta,17:30:00,SP,381,73.8,SAO PAULO,Outras,Capotamento,Sem Vítimas,Pleno dia,Decrescente,Chuva,Dupla,Curva,Rural,2008,1,0,0,0,1,0,0,1
+139178,471385,31/12/2008,Quarta,04:30:00,SP,116,534.0,BARRA DO TURVO,Outras,Saída de Pista,Sem Vítimas,Plena noite,Decrescente,Nublado,Dupla,Reta,Rural,2008,1,0,0,0,1,0,0,1
+139081,471284,31/12/2008,Quarta,00:10:00,SP,116,518.0,CAJATI,Desobediência à sinalização,Colisão traseira,Sem Vítimas,Plena noite,Crescente,Ceu Claro,Dupla,Reta,Rural,2008,2,0,0,0,2,0,0,2
+139022,471223,31/12/2008,Quarta,02:00:00,SP,381,59.0,MAIRIPORA,Defeito mecânico em veículo,Capotamento,Sem Vítimas,Plena noite,Crescente,Ceu Claro,Dupla,Reta,Rural,2008,1,0,0,0,1,0,0,1
+139907,473352,31/12/2008,Quarta,11:50:00,SP,116,5.0,GUARULHOS,Outras,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Dupla,Reta,Urbano,2008,2,0,0,0,2,0,0,2
+139930,473495,31/12/2008,Quarta,23:00:00,SP,116,220.0,GUARULHOS,Outras,Colisão traseira,Sem Vítimas,Plena noite,Crescente,Nublado,Múltipla,Reta,Urbano,2008,3,0,0,0,2,1,0,3
+139948,473614,31/12/2008,Quarta,13:30:00,SP,101,51.3,UBATUBA,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Nublado,Simples,Reta,Urbano,2008,3,0,0,0,3,0,0,3
+140008,474288,31/12/2008,Quarta,11:00:00,SP,116,271.8,TABOAO DA SERRA,Outras,Queda de motocicleta / bicicleta / veículo,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Reta,Urbano,2008,1,0,1,0,0,0,1,1
+140018,474348,31/12/2008,Quarta,17:00:00,SP,116,350.4,MIRACATU,Outras,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Rural,2008,3,0,1,0,2,0,1,2
+140027,474378,31/12/2008,Quarta,21:00:00,SP,116,384.0,MIRACATU,Outras,Queda de motocicleta / bicicleta / veículo,Sem Vítimas,Plena noite,Crescente,Ceu Claro,Dupla,Reta,Rural,2008,1,0,0,0,1,0,0,1
+140033,474394,31/12/2008,Quarta,18:00:00,SP,116,0.0,TABOAO DA SERRA,Outras,Atropelamento de pessoa,Sem Vítimas,Anoitecer,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2008,2,0,0,0,1,1,0,1
+139211,471419,31/12/2008,Quarta,00:35:00,SP,116,555.3,BARRA DO TURVO,Outras,Capotamento,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Curva,Rural,2008,3,0,2,0,1,0,2,1
+140751,546877,28/06/2008,Sábado,19:00:00,SC,101,58.5,ARAQUARI,Outras,Colisão lateral,Sem Vítimas,Plena noite,Decrescente,Chuva,Dupla,Reta,Rural,2008,2,0,0,0,2,0,0,2
+140758,551561,16/01/2008,Quarta,20:10:00,SC,282,1.5,FLORIANOPOLIS,Outras,Capotamento,Com Vítimas Feridas,Plena noite,Decrescente,Nublado,Dupla,Reta,Urbano,2008,3,0,3,0,0,0,3,1
+140771,554962,16/09/2008,Terça,20:00:00,SC,153,39.4,VARGEM BONITA,Falta de atenção,Colisão lateral,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Curva,Rural,2008,2,0,0,1,1,0,1,2
+140794,561969,31/12/2008,Quarta,23:50:00,SC,101,4028.4,SAO JOSE,Falta de atenção,Colisão traseira,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Dupla,Reta,Urbano,2008,2,0,0,1,0,1,1,2
+140797,563638,28/07/2008,Segunda,18:45:00,SC,101,206.5,SAO JOSE,Falta de atenção,Colisão traseira,Sem Vítimas,Plena noite,Crescente,Chuva,Dupla,Reta,Urbano,2008,2,0,0,0,2,0,0,2
+140801,564038,21/05/2008,Quarta,22:40:00,SC,282,124.0,CORREIA PINTO,Ultrapassagem indevida,Colisão lateral,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Rural,2008,5,0,0,3,2,0,3,2
+140829,573964,26/09/2008,Sexta,20:00:00,SC,101,21.0,GARUVA,Ultrapassagem indevida,Colisão lateral,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Dupla,Curva,Rural,2008,2,0,0,1,1,0,1,2
+140848,586674,22/09/2008,Segunda,10:45:00,SC,470,141.3,RIO DO SUL,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Sol,Simples,Cruzamento,Rural,2008,2,0,0,0,2,0,0,2
+140868,595480,08/10/2008,Quarta,17:40:00,SC,470,138.0,RIO DO SUL,Outras,Colisão lateral,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Rural,2008,4,0,2,0,1,1,2,3
+140870,595885,13/07/2008,Domingo,16:00:00,SC,101,396.9,CRICIUMA,Falta de atenção,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Curva,Rural,2008,1,0,1,0,0,0,1,1
+140902,626143,13/09/2008,Sábado,16:30:00,SC,282,530.1,CORDILHEIRA ALTA,Outras,Colisão frontal,Com Vítimas Fatais,Pleno dia,Crescente,Ceu Claro,Simples,Reta,Rural,2008,5,1,0,3,1,0,3,2
+140921,650157,05/07/2008,Sábado,10:00:00,SC,101,210.0,SAO JOSE,Desobediência à sinalização,Colisão Transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2008,3,0,0,2,1,0,2,2
+140922,651458,19/04/2008,Sábado,15:10:00,SC,470,123.9,IBIRAMA,Falta de atenção,Colisão lateral,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Rural,2008,6,0,1,3,2,0,4,2
+140950,699411,08/03/2008,Sábado,10:10:00,SC,470,17.5,ILHOTA,Outras,Colisão Transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Curva,Rural,2008,7,0,1,4,2,0,5,4
+140962,722431,14/11/2008,Sexta,17:45:00,SC,470,136.2,RIO DO SUL,Falta de atenção,Colisão Transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Urbano,2008,3,0,1,2,0,0,3,2
+140973,737409,03/10/2008,Sexta,22:20:00,SC,116,303.1,CAPAO ALTO,Ultrapassagem indevida,Colisão frontal,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Simples,Curva,Rural,2008,9,0,5,3,0,1,8,3
+141001,819816,03/01/2008,Quinta,18:30:00,SC,101,221.9,PALHOCA,Defeito na via,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Urbano,2008,5,0,2,1,2,0,3,3
+141020,916892,14/08/2008,Quinta,08:30:00,SC,116,94.8,MONTE CASTELO,Falta de atenção,Colisão lateral,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Rural,2008,4,0,2,0,2,0,2,2
+141024,922711,23/09/2008,Terça,15:20:00,SC,163,83.0,GUARACIABA,Outras,Saída de Pista,Com Vítimas Feridas,Pleno dia,Crescente,Ceu Claro,Simples,Reta,Rural,2008,1,0,1,0,0,0,1,1
+141028,941013,01/11/2008,Sábado,07:30:00,SC,282,3.0,FLORIANOPOLIS,Dormindo,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Curva,Urbano,2008,3,0,2,0,0,1,2,2
+50967,379271,14/05/2008,Quarta,22:30:00,CE,116,1.5,FORTALEZA,Falta de atenção,Colisão lateral,Com Vítimas Feridas,Plena noite,Decrescente,Chuva,Múltipla,Reta,Urbano,2008,3,0,2,0,0,1,2,2
+51042,379352,16/05/2008,Sexta,07:00:00,CE,222,109.7,ITAPAGE,Defeito mecânico em veículo,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Sol,Simples,Curva,Rural,2008,1,0,0,0,1,0,0,1
+51081,379391,18/05/2008,Domingo,09:30:00,CE,116,467,BARRO,Defeito na via,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Reta,Rural,2008,3,0,1,0,2,0,1,2
+51094,379404,19/05/2008,Segunda,00:30:00,CE,20,6.1,FORTALEZA,Animais na Pista,Atropelamento de animal,Sem Vítimas,Plena noite,Decrescente,Ignorada,Simples,Reta,Urbano,2008,1,0,0,0,1,0,0,1
+51108,379420,13/05/2008,Terça,14:50:00,CE,222,91,UMIRIM,Desobediência à sinalização,Colisão Transversal,Sem Vítimas,Pleno dia,Decrescente,Nublado,Simples,Reta,Urbano,2008,2,0,0,0,2,0,0,2
+51145,379459,19/05/2008,Segunda,07:15:00,CE,222,4,CAUCAIA,Não guardar distância de segurança,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Sol,Múltipla,Reta,Urbano,2008,2,0,0,0,2,0,0,2
+51162,379476,19/05/2008,Segunda,10:45:00,CE,116,64,CHOROZINHO,Falta de atenção,Colisão lateral,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Urbano,2008,4,0,1,0,2,1,1,3
+51206,379525,13/05/2008,Terça,07:00:00,CE,116,16.8,EUSEBIO,Outras,Saída de Pista,Sem Vítimas,Pleno dia,Crescente,Nublado,Dupla,Reta,Urbano,2008,1,0,0,0,1,0,0,1
+51228,379550,13/05/2008,Terça,13:00:00,CE,116,5.8,FORTALEZA,Falta de atenção,Colisão lateral,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Múltipla,Reta,Urbano,2008,2,0,0,0,2,0,0,2
+51309,379643,19/05/2008,Segunda,18:10:00,CE,222,4.8,CAUCAIA,Falta de atenção,Colisão lateral,Sem Vítimas,Plena noite,Decrescente,Ceu Claro,Múltipla,Reta,Urbano,2008,2,0,0,0,2,0,0,2
+51352,379687,16/05/2008,Sexta,22:00:00,CE,20,204,BOA VIAGEM,Outras,Colisão traseira,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Simples,Reta,Urbano,2008,3,0,1,0,0,2,1,2
+51359,379694,17/05/2008,Sábado,19:30:00,CE,116,11.7,FORTALEZA,Outras,Colisão com bicicleta,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Múltipla,Curva,Urbano,2008,2,0,0,1,0,1,1,2
+51407,379743,08/05/2008,Quinta,18:00:00,CE,20,17,MARACANAU,Falta de atenção,Colisão com bicicleta,Com Vítimas Feridas,Anoitecer,Crescente,Ceu Claro,Dupla,Reta,Rural,2008,2,0,0,1,1,0,1,2
+51416,379752,19/05/2008,Segunda,13:40:00,CE,20,257.7,MADALENA,Dormindo,Saída de Pista,Com Vítimas Feridas,Pleno dia,Crescente,Ceu Claro,Simples,Reta,Rural,2008,1,0,1,0,0,0,1,1
+51488,379831,16/05/2008,Sexta,08:50:00,CE,222,109.7,ITAPAGE,Falta de atenção,Colisão lateral,Com Vítimas Fatais,Pleno dia,Crescente,Sol,Simples,Curva,Rural,2008,10,2,6,1,1,0,7,2
+51490,379833,18/05/2008,Domingo,23:20:00,CE,20,405,CAUCAIA,Animais na Pista,Atropelamento de animal,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Rural,2008,4,0,3,1,0,0,4,2
+51539,379884,16/05/2008,Sexta,18:00:00,CE,116,60,CHOROZINHO,Falta de atenção,Colisão lateral,Com Vítimas Feridas,Anoitecer,Crescente,Nublado,Simples,Reta,Rural,2008,2,0,0,2,0,0,2,2
+51588,379941,20/05/2008,Terça,07:40:00,CE,116,3.5,FORTALEZA,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Sol,Múltipla,Reta,Urbano,2008,2,0,0,0,1,1,0,2
+51620,379974,17/05/2008,Sábado,22:18:00,CE,116,171,RUSSAS,Outras,Atropelamento de pessoa,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Rural,2008,3,0,1,1,0,1,2,1
+51630,379985,01/02/2008,Sexta,00:40:00,CE,116,2.8,FORTALEZA,Falta de atenção,Colisão Transversal,Sem Vítimas,Plena noite,Crescente,Ceu Claro,Múltipla,Reta,Urbano,2008,2,0,0,0,2,0,0,2
+140822,571035,26/12/2008,Sexta,10:00:00,GO,153,156.2,MARA ROSA,Outras,Saída de Pista,Com Vítimas Fatais,Pleno dia,Decrescente,Nublado,Simples,Reta,Rural,2008,3,2,0,1,0,0,1,1
+140830,574025,23/10/2008,Quinta,10:30:00,GO,60,83.1,ANAPOLIS,Falta de atenção,Saída de Pista,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Dupla,Reta,Rural,2008,1,0,0,1,0,0,1,1
+140834,579172,22/03/2008,Sábado,06:30:00,GO,153,509.5,APARECIDA DE GOIANIA,Outras,Colisão lateral,Com Vítimas Feridas,Amanhecer,Decrescente,Nublado,Dupla,Reta,Urbano,2008,3,0,0,3,0,0,3,2
+140843,585141,26/06/2008,Quinta,03:00:00,GO,60,264.5,INDIARA,Outras,Saída de Pista,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Rural,2008,2,0,0,2,0,0,2,1
+140877,601724,11/08/2008,Segunda,08:20:00,GO,60,51.9,ABADIANIA,Falta de atenção,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Dupla,Curva,Rural,2008,1,0,0,0,1,0,0,1
+140878,601814,07/09/2008,Domingo,10:50:00,GO,20,14.0,FORMOSA,Ultrapassagem indevida,Colisão lateral,Sem Vítimas,Pleno dia,Decrescente,Sol,Simples,Reta,Rural,2008,3,0,0,0,3,0,0,3
+140883,604999,02/02/2008,Sábado,22:45:00,GO,20,205.6,POSSE,Outras,Capotamento,Com Vítimas Feridas,Plena noite,Crescente,Chuva,Simples,Reta,Rural,2008,4,0,4,0,0,0,4,1
+140886,608041,03/10/2008,Sexta,13:15:00,GO,20,117.8,FLORES DE GOIAS,Falta de atenção,Saída de Pista,Com Vítimas Feridas,Pleno dia,Crescente,Ceu Claro,Simples,Reta,Rural,2008,1,0,1,0,0,0,1,1
+140913,645426,12/09/2008,Sexta,22:00:00,GO,40,3.8,VALPARAISO DE GOIAS,Outras,Atropelamento de pessoa,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Curva,Urbano,2008,4,0,1,1,2,0,2,2
+140960,719064,14/04/2008,Segunda,06:10:00,GO,70,6.0,AGUAS LINDAS DE GOIAS,Falta de atenção,Atropelamento de pessoa,Com Vítimas Fatais,Pleno dia,Crescente,Ceu Claro,Simples,Reta,Urbano,2008,2,1,0,0,1,0,0,1
+140969,730294,22/01/2008,Terça,13:10:00,GO,153,304.0,RIALMA,Outras,Colisão Transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Reta,Rural,2008,2,0,0,1,1,0,1,2
+140972,733319,14/11/2008,Sexta,15:00:00,GO,60,191.0,GUAPO,Outras,Queda de motocicleta / bicicleta / veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Rural,2008,2,0,0,2,0,0,2,1
+140976,741463,21/11/2008,Sexta,20:20:00,GO,70,4.0,AGUAS LINDAS DE GOIAS,Falta de atenção,Colisão frontal,Sem Vítimas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Urbano,2008,2,0,0,0,2,0,0,2
+140983,755380,13/10/2008,Segunda,19:10:00,GO,20,7.0,FORMOSA,Velocidade incompatível,Colisão traseira,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Rural,2008,3,0,3,0,0,0,3,2
+140990,773897,23/11/2008,Domingo,18:20:00,GO,60,59.2,ABADIANIA,Defeito na via,Saída de Pista,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Curva,Rural,2008,2,0,0,1,1,0,1,1
+140995,780405,21/06/2008,Sábado,20:00:00,GO,153,503.7,GOIANIA,Velocidade incompatível,Colisão com bicicleta,Com Vítimas Fatais,Plena noite,Crescente,Ceu Claro,Dupla,Curva,Urbano,2008,2,1,0,0,0,1,0,2
+140996,784051,25/08/2008,Segunda,05:30:00,GO,60,165.7,GOIANIA,Outras,Colisão traseira,Com Vítimas Feridas,Amanhecer,Crescente,Ceu Claro,Simples,Reta,Urbano,2008,2,0,1,0,0,1,1,2
+141000,811819,01/11/2008,Sábado,17:00:00,GO,70,34.1,COCALZINHO DE GOIAS,Desobediência à sinalização,Colisão lateral,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Curva,Rural,2008,2,0,1,0,1,0,1,2
+141011,849422,26/11/2008,Quarta,22:00:00,GO,20,84.3,VILA BOA,Outras,Colisão frontal,Com Vítimas Fatais,Plena noite,Crescente,Chuva,Simples,Curva,Rural,2008,3,1,0,1,1,0,1,2
+141019,900566,25/02/2008,Segunda,10:50:00,GO,40,12.0,LUZIANIA,Outras,Atropelamento de pessoa,Com Vítimas Feridas,Pleno dia,Crescente,Ceu Claro,Dupla,Reta,Urbano,2008,2,0,0,1,1,0,1,1

@@ -1,0 +1,101 @@
+,id,data_inversa,dia_semana,horario,uf,br,km,municipio,causa_acidente,tipo_acidente,classificacao_acidente,fase_dia,sentido_via,condicao_metereologica,tipo_pista,tracado_via,uso_solo,ano,pessoas,mortos,feridos_leves,feridos_graves,ilesos,ignorados,feridos,veiculos
+1516,473696,01/01/2009,Quinta,22:00:00,MG,381,224.5,SANTANA DO PARAISO,Ingestão de álcool,Colisão com objeto fixo,Com Vítimas Feridas,Plena noite,Crescente,Chuva,Simples,Curva,Rural,2009,2,0,1,0,1,0,1,2
+155,471857,01/01/2009,Quinta,18:05:00,MG,381,357.0,JOAO MONLEVADE,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Chuva,Simples,Reta,Urbano,2009,2,0,0,0,2,0,0,2
+166,471879,01/01/2009,Quinta,10:00:00,MG,381,360.0,SAO GONCALO DO RIO ABAIXO,Velocidade incompatível,Capotamento,Sem Vítimas,Pleno dia,Decrescente,Nublado,Simples,Reta,Rural,2009,1,0,0,0,1,0,0,1
+167,471880,01/01/2009,Quinta,10:10:00,MG,381,568.2,ITAGUARA,Velocidade incompatível,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Dupla,Curva,Rural,2009,1,0,0,0,1,0,0,1
+172,471890,01/01/2009,Quinta,15:30:00,MG,381,234.8,SANTANA DO PARAISO,Outras,Colisão Transversal,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Curva,Rural,2009,3,0,1,1,1,0,2,2
+179,471901,01/01/2009,Quinta,17:00:00,MG,381,533.0,ITATIAIUCU,Outras,Colisão com objeto fixo,Sem Vítimas,Pleno dia,Crescente,Chuva,Dupla,Curva,Rural,2009,1,0,0,0,1,0,0,1
+182,471904,01/01/2009,Quinta,18:30:00,MG,40,461.7,SETE LAGOAS,Defeito na via,Colisão com objeto móvel,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Rural,2009,7,0,3,4,0,0,7,2
+187,471909,01/01/2009,Quinta,16:35:00,MG,381,522.5,BRUMADINHO,Outras,Atropelamento de animal,Sem Vítimas,Pleno dia,Decrescente,Chuva,Dupla,Curva,Rural,2009,1,0,0,0,1,0,0,1
+198,471923,01/01/2009,Quinta,16:30:00,MG,365,12.5,MONTES CLAROS,Outras,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Chuva,Simples,Reta,Rural,2009,1,0,0,0,1,0,0,1
+239,471974,01/01/2009,Quinta,22:15:00,MG,381,684.9,RIBEIRAO VERMELHO,Outras,Queda de motocicleta / bicicleta / veículo,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Dupla,Reta,Rural,2009,1,0,1,0,0,0,1,1
+245,471980,01/01/2009,Quinta,18:40:00,MG,50,135.0,UBERABA,Outras,Capotamento,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Dupla,Reta,Rural,2009,5,0,2,2,1,0,4,1
+270,472047,01/01/2009,Quinta,00:55:00,MG,50,39.0,ARAGUARI,Outras,Capotamento,Com Vítimas Fatais,Plena noite,Decrescente,Ceu Claro,Simples,Reta,Urbano,2009,1,1,0,0,0,0,0,1
+304,472110,01/01/2009,Quinta,07:30:00,MG,135,631.3,CURVELO,Outras,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Nublado,Simples,Reta,Rural,2009,2,0,0,0,2,0,0,2
+149,471849,01/01/2009,Quinta,17:15:00,MG,116,520.3,CARATINGA,Velocidade incompatível,Colisão lateral,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Cruzamento,Rural,2009,2,0,1,0,1,0,1,2
+392,472259,01/01/2009,Quinta,14:50:00,MG,262,567.2,CORREGO DANTA,Velocidade incompatível,Capotamento,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Simples,Curva,Rural,2009,1,0,1,0,0,0,1,1
+572,472493,01/01/2009,Quinta,06:20:00,MG,40,496.3,ESMERALDAS,Outras,Colisão traseira,Com Vítimas Feridas,Amanhecer,Decrescente,Nublado,Dupla,Reta,Rural,2009,3,0,1,0,2,0,1,2
+844,472850,01/01/2009,Quinta,06:40:00,MG,381,604.4,OLIVEIRA,Dormindo,Capotamento,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Curva,Rural,2009,2,0,1,0,1,0,1,1
+853,472867,01/01/2009,Quinta,05:30:00,MG,262,401.0,PARA DE MINAS,Falta de atenção,Colisão Transversal,Sem Vítimas,Amanhecer,Decrescente,Nublado,Simples,Reta,Urbano,2009,2,0,0,0,2,0,0,2
+880,472920,01/01/2009,Quinta,05:00:00,MG,40,610.5,CONGONHAS,Defeito na via,Queda de motocicleta / bicicleta / veículo,Com Vítimas Feridas,Plena noite,Crescente,Chuva,Simples,Reta,Rural,2009,2,0,1,1,0,0,2,1
+897,472946,01/01/2009,Quinta,02:10:00,MG,135,413.3,BOCAIUVA,Falta de atenção,Queda de motocicleta / bicicleta / veículo,Com Vítimas Feridas,Plena noite,Decrescente,Nublado,Simples,Reta,Urbano,2009,1,0,0,1,0,0,1,1
+156658,635995,31/12/2009,Quinta,19:10:00,SP,116,27.9,SILVEIRAS,Outras,Colisão com objeto fixo,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Curva,Rural,2009,4,0,3,0,1,0,3,1
+156475,635810,31/12/2009,Quinta,11:40:00,SP,116,70.7,APARECIDA,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Chuva,Dupla,Curva,Urbano,2009,3,0,0,0,3,0,0,3
+156306,635635,31/12/2009,Quinta,09:40:00,SP,116,513.6,CAJATI,Outras,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Chuva,Simples,Curva,Rural,2009,1,0,0,0,1,0,0,1
+157637,640151,31/12/2009,Quinta,22:25:00,SP,101,51.0,UBATUBA,Falta de atenção,Colisão traseira,Sem Vítimas,Plena noite,Decrescente,Chuva,Simples,Reta,Urbano,2009,2,0,0,0,2,0,0,2
+157590,639421,31/12/2009,Quinta,02:49:00,SP,116,182.1,GUARAREMA,Outras,Colisão com objeto móvel,Com Vítimas Feridas,Plena noite,Decrescente,Nublado,Dupla,Reta,Urbano,2009,4,0,3,0,1,0,3,1
+157586,639397,31/12/2009,Quinta,02:50:00,SP,116,182.1,GUARAREMA,Outras,Colisão com objeto móvel,Sem Vítimas,Plena noite,Decrescente,Nublado,Dupla,Reta,Rural,2009,1,0,0,0,1,0,0,1
+157563,639248,31/12/2009,Quinta,15:52:00,SP,116,223.4,GUARULHOS,Falta de atenção,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Dupla,Reta,Urbano,2009,2,0,0,0,2,0,0,2
+157552,639186,31/12/2009,Quinta,20:25:00,SP,116,437.1,REGISTRO,Outras,Capotamento,Com Vítimas Feridas,Plena noite,Crescente,Nublado,Dupla,Reta,Rural,2009,4,0,3,1,0,0,4,1
+157040,636783,31/12/2009,Quinta,09:50:00,SP,116,297.0,ITAPECERICA DA SERRA,Outras,Atropelamento de pessoa,Com Vítimas Fatais,Pleno dia,Crescente,Ceu Claro,Dupla,Reta,Rural,2009,2,1,0,0,0,1,0,1
+156459,635792,31/12/2009,Quinta,17:35:00,SP,153,256.7,MARILIA,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Chuva,Simples,Reta,Urbano,2009,2,0,0,0,2,0,0,2
+157068,636917,31/12/2009,Quinta,22:00:00,SP,116,516.0,CAJATI,Outras,Saída de Pista,Sem Vítimas,Plena noite,Crescente,Chuva,Simples,Curva,Rural,2009,1,0,0,0,1,0,0,1
+157441,638249,31/12/2009,Quinta,11:30:00,SP,116,70.6,APARECIDA,Defeito mecânico em veículo,Colisão com objeto fixo,Sem Vítimas,Pleno dia,Decrescente,Chuva,Dupla,Curva,Urbano,2009,1,0,0,0,1,0,0,1
+157121,637060,31/12/2009,Quinta,12:40:00,SP,153,21.7,NOVA GRANADA,Outras,Colisão frontal,Com Vítimas Fatais,Pleno dia,Decrescente,Chuva,Simples,Curva,Rural,2009,6,2,0,4,0,0,4,2
+157139,637122,31/12/2009,Quinta,12:50:00,SP,116,338.0,JUQUITIBA,Outras,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Simples,Reta,Urbano,2009,3,0,0,0,3,0,0,3
+157144,637140,31/12/2009,Quinta,04:30:00,SP,116,366.0,MIRACATU,Dormindo,Capotamento,Sem Vítimas,Plena noite,Crescente,Nublado,Simples,Reta,Rural,2009,1,0,0,0,1,0,0,1
+157402,638148,31/12/2009,Quinta,07:20:00,SP,116,444.0,REGISTRO,Dormindo,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2009,2,0,0,0,2,0,0,2
+157148,637156,31/12/2009,Quinta,10:30:00,SP,116,352.0,MIRACATU,Outras,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Simples,Reta,Rural,2009,2,0,0,0,2,0,0,2
+156388,635719,31/12/2009,Quinta,13:20:00,SP,116,192.0,SANTA ISABEL,Outras,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Dupla,Curva,Rural,2009,2,0,0,0,2,0,0,2
+157366,637995,31/12/2009,Quinta,07:20:00,SP,116,224.3,GUARULHOS,Defeito mecânico em veículo,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Múltipla,Reta,Urbano,2009,4,0,2,0,2,0,2,2
+157361,637950,31/12/2009,Quinta,04:00:00,SP,116,322.9,JUQUITIBA,Outras,Saída de Pista,Sem Vítimas,Plena noite,Decrescente,Nublado,Dupla,Reta,Rural,2009,1,0,0,0,1,0,0,1
+158233,683577,15/11/2009,Domingo,19:35:00,SC,282,65.5,RANCHO QUEIMADO,Falta de atenção,Saída de Pista,Com Vítimas Feridas,Plena noite,Crescente,Chuva,Simples,Curva,Urbano,2009,5,0,4,1,0,0,5,1
+158252,688647,05/06/2009,Sexta,17:50:00,SC,470,8.2,NAVEGANTES,Falta de atenção,Colisão Transversal,Com Vítimas Feridas,Anoitecer,Crescente,Ceu Claro,Simples,Reta,Urbano,2009,2,0,2,0,0,0,2,2
+158268,691393,08/12/2009,Terça,09:00:00,SC,101,346.0,TUBARAO,Outras,Colisão frontal,Com Vítimas Fatais,Pleno dia,Crescente,Chuva,Simples,Curva,Rural,2009,2,1,1,0,0,0,1,2
+158272,693791,06/12/2009,Domingo,23:00:00,SC,101,124.0,ITAJAI,Defeito mecânico em veículo,Tombamento,Com Vítimas Feridas,Plena noite,Crescente,Vento,Dupla,Reta,Urbano,2009,2,0,2,0,0,0,2,1
+158297,698519,09/03/2009,Segunda,02:20:00,SC,470,333.7,CAMPOS NOVOS,Dormindo,Colisão frontal,Com Vítimas Fatais,Plena noite,Crescente,Nevoeiro/neblina,Simples,Reta,Rural,2009,15,1,14,0,0,0,14,2
+158309,702285,06/08/2009,Quinta,14:00:00,SC,116,60.2,PAPANDUVA,Outras,Saída de Pista,Sem Vítimas,Pleno dia,Crescente,Sol,Simples,Reta,Rural,2009,3,0,0,0,3,0,0,2
+158363,720185,09/01/2009,Sexta,08:25:00,SC,101,203.2,SAO JOSE,Falta de atenção,Colisão traseira,Com Vítimas Feridas,Plena noite,Decrescente,Sol,Simples,Reta,Urbano,2009,3,0,1,0,2,0,1,3
+158368,722458,01/12/2009,Terça,14:30:00,SC,101,323.4,LAGUNA,Falta de atenção,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Rural,2009,3,0,2,0,1,0,2,2
+158370,722551,28/09/2009,Segunda,09:00:00,SC,282,504.8,XANXERE,Defeito mecânico em veículo,Colisão com objeto fixo,Sem Vítimas,Pleno dia,Crescente,Chuva,Simples,Cruzamento,Urbano,2009,1,0,0,0,1,0,0,1
+158374,723516,02/12/2009,Quarta,16:00:00,SC,470,106.2,APIUNA,Outras,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Curva,Urbano,2009,3,0,1,1,1,0,2,2
+158386,728684,07/01/2009,Quarta,18:25:00,SC,280,24.7,ARAQUARI,Desobediência à sinalização,Colisão Transversal,Com Vítimas Fatais,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Urbano,2009,3,1,2,0,0,0,2,2
+158396,732091,11/10/2009,Domingo,09:10:00,SC,101,142.0,BALNEARIO CAMBORIU,Velocidade incompatível,Saída de Pista,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Múltipla,Curva,Urbano,2009,5,0,2,3,0,0,5,1
+158415,744011,23/12/2009,Quarta,09:00:00,SC,282,532.0,CORDILHEIRA ALTA,Velocidade incompatível,Capotamento,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Curva,Rural,2009,2,0,1,0,1,0,1,1
+158420,745575,29/05/2009,Sexta,19:25:00,SC,101,207.0,SAO JOSE,Não guardar distância de segurança,Colisão traseira,Com Vítimas Feridas,Anoitecer,Crescente,Ceu Claro,Dupla,Reta,Urbano,2009,2,0,0,1,1,0,1,2
+158428,748687,06/12/2009,Domingo,03:30:00,SC,101,110.0,NAVEGANTES,Desobediência à sinalização,Colisão frontal,Com Vítimas Feridas,Plena noite,Decrescente,Nublado,Dupla,Curva,Rural,2009,3,0,2,0,1,0,2,2
+158455,770898,05/11/2009,Quinta,02:40:00,SC,101,196.0,BIGUACU,Falta de atenção,Atropelamento de pessoa,Com Vítimas Fatais,Plena noite,Decrescente,Ceu Claro,Múltipla,Reta,Urbano,2009,2,1,0,0,0,1,0,1
+158538,83043499,26/04/2009,Domingo,19:00:00,SC,280,6.8,SAO FRANCISCO DO SUL,Falta de atenção,Atropelamento de pessoa,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Reta,Urbano,2009,2,0,0,1,1,0,1,1
+158569,848292,04/01/2009,Domingo,14:50:00,SC,101,200.0,SAO JOSE,Outras,Saída de Pista,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Urbano,2009,2,0,2,0,0,0,2,1
+158591,872998,09/09/2009,Quarta,17:30:00,SC,116,168.7,PONTE ALTA DO NORTE,Velocidade incompatível,Colisão frontal,Com Vítimas Fatais,Pleno dia,Crescente,Chuva,Simples,Curva,Rural,2009,4,3,0,0,1,0,0,2
+158626,942262,03/08/2009,Segunda,15:00:00,SC,101,199.0,BIGUACU,Falta de atenção,Atropelamento de pessoa,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2009,2,0,1,1,0,0,2,1
+52723,527804,08/05/2009,Sexta,14:50:00,CE,116,35.0,HORIZONTE,Falta de atenção,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Sol,Dupla,Reta,Rural,2009,2,0,0,0,2,0,0,2
+52794,527877,15/05/2009,Sexta,21:10:00,CE,116,361.0,ICO,Defeito na via,Capotamento,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Simples,Curva,Rural,2009,2,0,2,0,0,0,2,1
+52872,527959,15/05/2009,Sexta,08:10:00,CE,222,32.3,CAUCAIA,Outras,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Sol,Simples,Reta,Rural,2009,2,0,0,0,2,0,0,2
+52915,528002,15/05/2009,Sexta,16:10:00,CE,116,258.0,ALTO SANTO,Defeito na via,Capotamento,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Rural,2009,1,0,0,0,1,0,0,1
+53103,528196,10/05/2009,Domingo,17:40:00,CE,20,24.0,CAUCAIA,Falta de atenção,Colisão Transversal,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Simples,Reta,Rural,2009,3,0,1,1,1,0,2,2
+53107,528200,11/05/2009,Segunda,04:40:00,CE,116,25.0,ITAITINGA,Falta de atenção,Colisão traseira,Sem Vítimas,Amanhecer,Decrescente,Nublado,Simples,Reta,Rural,2009,2,0,0,0,1,1,0,2
+53114,528207,16/05/2009,Sábado,15:15:00,CE,222,10.0,CAUCAIA,Falta de atenção,Colisão lateral,Sem Vítimas,Pleno dia,Decrescente,Sol,Dupla,Reta,Urbano,2009,2,0,0,0,1,1,0,2
+53144,528237,15/05/2009,Sexta,15:20:00,CE,116,5.8,FORTALEZA,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Simples,Curva,Urbano,2009,2,0,0,0,2,0,0,2
+53187,528282,16/05/2009,Sábado,16:10:00,CE,20,404.9,CAUCAIA,Defeito na via,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Chuva,Simples,Reta,Rural,2009,1,0,0,0,1,0,0,1
+53197,528292,12/05/2009,Terça,17:45:00,CE,20,3.8,FORTALEZA,Falta de atenção,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Sol,Simples,Reta,Urbano,2009,2,0,0,0,2,0,0,2
+53272,528369,16/05/2009,Sábado,17:50:00,CE,222,100.6,UMIRIM,Defeito mecânico em veículo,Saída de Pista,Sem Vítimas,Anoitecer,Crescente,Ceu Claro,Simples,Reta,Rural,2009,1,0,0,0,1,0,0,1
+53297,528394,13/05/2009,Quarta,18:15:00,CE,222,26.0,CAUCAIA,Não guardar distância de segurança,Colisão traseira,Sem Vítimas,Plena noite,Decrescente,Ceu Claro,Simples,Reta,Rural,2009,2,0,0,0,2,0,0,2
+53385,528484,13/05/2009,Quarta,12:30:00,CE,116,125.7,RUSSAS,Dormindo,Saída de Pista,Sem Vítimas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Rural,2009,1,0,0,0,1,0,0,1
+53443,528546,10/05/2009,Domingo,15:00:00,CE,116,1.2,FORTALEZA,Outras,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Múltipla,Reta,Urbano,2009,2,0,0,0,1,1,0,2
+53452,528555,15/05/2009,Sexta,11:15:00,CE,20,18.3,MARACANAU,Ultrapassagem indevida,Colisão lateral,Sem Vítimas,Pleno dia,Decrescente,Sol,Simples,Cruzamento,Urbano,2009,2,0,0,0,2,0,0,2
+53484,528588,15/05/2009,Sexta,13:15:00,CE,116,11.0,FORTALEZA,Outras,Tombamento,Sem Vítimas,Pleno dia,Crescente,Sol,Simples,Reta,Urbano,2009,1,0,0,0,1,0,0,1
+53491,528595,17/05/2009,Domingo,18:45:00,CE,222,3.5,CAUCAIA,Ingestão de álcool,Atropelamento de pessoa,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Dupla,Reta,Urbano,2009,2,0,1,0,1,0,1,1
+53631,528743,14/05/2009,Quinta,14:10:00,CE,222,0.8,FORTALEZA,Falta de atenção,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Múltipla,Reta,Urbano,2009,2,0,0,0,2,0,0,2
+53678,528793,09/05/2009,Sábado,20:00:00,CE,116,27.0,AQUIRAZ,Outras,Atropelamento de pessoa,Com Vítimas Fatais,Plena noite,Decrescente,Ceu Claro,Múltipla,Curva,Rural,2009,2,1,0,0,0,1,0,1
+53721,528839,14/05/2009,Quinta,15:30:00,CE,222,2.5,FORTALEZA,Falta de atenção,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Ceu Claro,Múltipla,Reta,Urbano,2009,2,0,0,0,2,0,0,2
+158325,706240,30/10/2009,Sexta,08:30:00,GO,60,42.8,ALEXANIA,Outras,Saída de Pista,Com Vítimas Feridas,Pleno dia,Crescente,Nevoeiro/neblina,Dupla,Curva,Rural,2009,3,0,1,1,0,1,2,2
+158334,709164,07/12/2009,Segunda,07:50:00,GO,153,635.8,MORRINHOS,Outras,Saída de Pista,Com Vítimas Fatais,Pleno dia,Decrescente,Chuva,Dupla,Reta,Rural,2009,5,1,4,0,0,0,4,1
+158339,711249,21/11/2009,Sábado,02:00:00,GO,40,8.0,LUZIANIA,Desobediência à sinalização,Colisão lateral,Com Vítimas Feridas,Plena noite,Crescente,Ceu Claro,Dupla,Reta,Urbano,2009,2,0,1,1,0,0,2,2
+158343,712464,24/07/2009,Sexta,19:50:00,GO,20,32.3,FORMOSA,Ultrapassagem indevida,Colisão frontal,Com Vítimas Fatais,Plena noite,Crescente,Ceu Claro,Simples,Reta,Rural,2009,3,1,2,0,0,0,2,2
+158442,760659,19/12/2009,Sábado,18:50:00,GO,60,93.0,ANAPOLIS,Falta de atenção,Colisão lateral,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Curva,Urbano,2009,3,0,1,0,1,1,1,2
+158447,762743,02/11/2009,Segunda,22:35:00,GO,60,166.0,GOIANIA,Outras,Colisão lateral,Com Vítimas Feridas,Plena noite,Crescente,Ignorada,Simples,Reta,Urbano,2009,3,0,1,1,1,0,2,2
+158466,775000,22/07/2009,Quarta,20:10:00,GO,40,9.0,LUZIANIA,Dormindo,Colisão traseira,Com Vítimas Feridas,Plena noite,Decrescente,Ceu Claro,Dupla,Reta,Rural,2009,2,0,0,1,1,0,1,2
+158484,793229,20/05/2009,Quarta,07:00:00,GO,40,0.1,VALPARAISO DE GOIAS,Não guardar distância de segurança,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Sol,Dupla,Reta,Urbano,2009,2,0,0,0,2,0,0,2
+158497,805423,22/12/2009,Terça,02:50:00,GO,60,47.4,ALEXANIA,Outras,Saída de Pista,Com Vítimas Feridas,Plena noite,Crescente,Nublado,Dupla,Reta,Rural,2009,2,0,2,0,0,0,2,1
+158513,814617,09/05/2009,Sábado,11:20:00,GO,40,7.0,VALPARAISO DE GOIAS,Falta de atenção,Colisão lateral,Sem Vítimas,Pleno dia,Crescente,Sol,Dupla,Reta,Urbano,2009,2,0,0,0,2,0,0,2
+158529,822975,26/08/2009,Quarta,17:35:00,GO,60,133.4,GOIANIA,Falta de atenção,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Dupla,Reta,Rural,2009,7,0,1,5,0,1,6,4
+158537,828177,25/01/2009,Domingo,01:30:00,GO,153,82.2,PORANGATU,Outras,Colisão traseira,Com Vítimas Feridas,Plena noite,Crescente,Nublado,Simples,Reta,Rural,2009,7,0,4,1,2,0,5,3
+158565,843247,12/12/2009,Sábado,18:20:00,GO,153,505.4,APARECIDA DE GOIANIA,Velocidade incompatível,Colisão com objeto fixo,Com Vítimas Feridas,Anoitecer,Crescente,Ceu Claro,Dupla,Reta,Urbano,2009,1,0,1,0,0,0,1,1
+158580,856049,09/09/2009,Quarta,04:50:00,GO,153,678.0,PANAMA,Outras,Atropelamento de pessoa,Com Vítimas Fatais,Plena noite,Decrescente,Nublado,Dupla,Reta,Rural,2009,2,1,0,0,1,0,0,1
+158593,876563,06/12/2009,Domingo,20:50:00,GO,80,10.0,PADRE BERNARDO,Velocidade incompatível,Colisão Transversal,Com Vítimas Fatais,Plena noite,Decrescente,Chuva,Simples,Reta,Rural,2009,6,4,0,0,1,1,0,2
+158605,896898,10/08/2009,Segunda,17:00:00,GO,20,6.0,FORMOSA,Falta de atenção,Colisão Transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Rural,2009,4,0,1,0,3,0,1,2
+158608,900325,06/11/2009,Sexta,05:50:00,GO,70,9.5,AGUAS LINDAS DE GOIAS,Ultrapassagem indevida,Colisão frontal,Com Vítimas Fatais,Amanhecer,Decrescente,Chuva,Simples,Reta,Urbano,2009,7,5,0,0,2,0,0,2
+158614,909883,08/12/2009,Terça,09:30:00,GO,153,183.5,URUACU,Ultrapassagem indevida,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Rural,2009,7,0,1,4,2,0,5,3
+158625,940717,13/11/2009,Sexta,09:25:00,GO,153,425.0,ANAPOLIS,Outras,Queda de motocicleta / bicicleta / veículo,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Rural,2009,2,0,1,1,0,0,2,1
+158644,999150,14/07/2009,Terça,08:15:00,GO,414,281.0,VILA PROPICIO,Outras,Colisão Transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Ceu Claro,Simples,Reta,Rural,2009,3,0,0,2,1,0,2,2
